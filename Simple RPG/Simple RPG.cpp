@@ -140,5 +140,4 @@ int main()
         }
     }
     return 0;
-    // Test comment for Git functionality
 }
